@@ -1,0 +1,3 @@
+messages:
+  info: 'Pass the test to get your resources back.'
+  fail: 'Parkour has failed, your resources are stored in a barrel at the place of your death.'
